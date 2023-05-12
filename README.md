@@ -13,10 +13,12 @@ sign restrictions on some of the impulse responses. We find quantitative easing 
 ECB reduced stress in the financial markets at the cost of inflation. Furthermore, we estimate no statistical significant effect on GDP from asset purchasing. Our analysis imply
 that the ECB can stabilize the financial markets through policy even during extraordinary
 events.
+
+
 Purchasing assets such as bonds increase the price and decrease the yields of the bonds.
 As agents are considered forward looking, there will also be an effect from the ECB’s
 quantitative easing announcements before the bonds are actually purchased. Therefore,
 we make an event study to examine the effects of quantitative easing on daily government
 bond yields in the euro area. We find a positive impact on bond yields from quantitative
 easing announcements like Jensen et al. (2017) but contrary to Krishnamurthy and VissingJorgensen (2011). Our results could be explained by the ECB’s announcements being of
-smaller scale than expected by the markets, which could result in higher yields on the bonds
+smaller scale than expected by the markets, which could result in higher yields on the bonds.
